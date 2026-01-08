@@ -1,0 +1,2 @@
+# Sanskrit-RAG-System
+Sankarit 
