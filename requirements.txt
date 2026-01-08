@@ -1,0 +1,9 @@
+langchain
+faiss-cpu
+sentence-transformers
+transformers
+torch
+pymupdf
+pdfplumber
+indic-transliteration
+regex
