@@ -1,9 +1,14 @@
-langchain
-faiss-cpu
-sentence-transformers
-transformers
-torch
-pymupdf
-pdfplumber
-indic-transliteration
-regex
+# Core libraries
+langchain==1.1.0
+transformers==4.35.0
+sentence-transformers==2.2.2
+torch==2.1.0
+faiss-cpu==1.7.4
+streamlit==1.27.0
+
+# Document loaders
+python-docx==0.8.11
+PyPDF2==3.0.1
+
+# Utilities
+numpy==1.26.2
